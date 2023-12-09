@@ -1,9 +1,11 @@
 bulid.gradle ---> +Add
 
-android { 
+android { --->
+
  buildFeatures{
         dataBinding true
     }
+    
 }
 
 dependencies { -->
